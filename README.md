@@ -1,0 +1,1 @@
+# Syntecxhub_Customer_Segmentation_Using_RFM_Analysis
