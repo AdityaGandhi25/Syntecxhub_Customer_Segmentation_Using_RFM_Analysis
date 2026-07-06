@@ -11,7 +11,7 @@
 ---
 
 ## 📝 Project Overview
-This repository contains the deliverables for **Project 1** of the Syntecxhub Data Analysis Internship. The goal of this project is to analyze transactional customer data and segment the customer base using **RFM (Recency, Frequency, Monetary)** analysis. 
+This repository contains the deliverables for **Project 2** of the Syntecxhub Data Analysis Internship. The goal of this project is to analyze transactional customer data and segment the customer base using **RFM (Recency, Frequency, Monetary)** analysis. 
 
 By categorizing customers based on their purchasing behavior, businesses can tailor their marketing strategies, improve customer retention, and maximize revenue.
 
